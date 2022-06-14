@@ -25,7 +25,7 @@ create table cart (
 
 insert into menu_items values (1, 'Sandwich', 100.00, '2021-01-20', 'Yes', 'Yes');
 insert into menu_items values (2, 'Cake', 120.00, '2021-01-20', 'Yes', 'No');
-insert into menu_items values  (3, 'Pizaa', 99.00, '2021-01-20', 'Yes', 'Yes');
+insert into menu_items values  (3, 'Pizza', 99.00, '2021-01-20', 'Yes', 'Yes');
 insert into menu_items values  (4, 'Coke', 99.00, '2021-01-18', 'Yes', 'No');
 insert into menu_items values  (5, 'Burger', 129.00, '2020-07-18', 'No', 'Yes');
 
